@@ -1,4 +1,4 @@
-# mysh - Custom Shell Implementation
+# mysh - USYD_INFO1112 A1
 
 `mysh` is a custom shell in Python that offers basic shell functionality including command execution, pipe handling, environment variable management, and signal handling.
 

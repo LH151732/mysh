@@ -13,7 +13,7 @@
    ```
 
    ```bash
-   python3 mysh.py
+   python mysh.py
    ```
 
 # Try Commands:
